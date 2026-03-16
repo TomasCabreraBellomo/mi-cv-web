@@ -4,7 +4,8 @@ export default function Contact() {
       id="contact"
       className="px-6 py-16 max-w-5xl mx-auto"
     >
-      <h2 className="text-3xl font-bold mb-8">
+      <h2 className="text-3xl font-bold text-blue-600
+">
         Contacto
       </h2>
 
@@ -16,7 +17,7 @@ export default function Contact() {
             href="mailto:tuemail@gmail.com"
             className="text-blue-600 ml-2"
           >
-            tuemail@gmail.com
+            tomycabrera2003@gmail.com
           </a>
         </p>
 
@@ -26,7 +27,7 @@ export default function Contact() {
             href="https://github.com/tuusuario"
             className="text-blue-600 ml-2"
           >
-            github.com/tuusuario
+            github.com/TomasCabreraBellomo
           </a>
         </p>
 
@@ -36,7 +37,7 @@ export default function Contact() {
             href="https://linkedin.com"
             className="text-blue-600 ml-2"
           >
-            linkedin.com/in/tuusuario
+            linkedin.com/in/TomasCabreraBellomo
           </a>
         </p>
 

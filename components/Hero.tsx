@@ -12,9 +12,7 @@ export default function Hero() {
           Tomas Ignacio Cabrera Bellomo        </h1>
 
         <p className="mt-5 max-w-xl text-lg leading-relaxed text-slate-600">
-          Estudiante de programación interesado en desarrollo web,
-          frontend y backend, con ganas de seguir aprendiendo y
-          construir proyectos modernos.
+          Estudiante de Ingenieria en Computación, interesado en Inteligencia Artificial.
         </p>
 
         <div className="mt-8 flex flex-wrap gap-4">

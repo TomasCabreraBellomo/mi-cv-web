@@ -15,6 +15,8 @@ export default function Skills() {
           "Node.js",
           "Git",
           "Tailwind",
+          "REDES",
+          "Assembly"
         ].map((skill) => (
           <div
             key={skill}

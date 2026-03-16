@@ -17,10 +17,11 @@ export default function Education() {
 
         <div className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm transition hover:-translate-y-1 hover:shadow-lg">
           <h3 className="text-lg font-semibold text-blue-600">
-            Escuela / Universidad
+            Universidad Nacional de Tucumán
           </h3>
           <p className="mt-2 text-slate-600">
-            Información sobre tus estudios y formación académica.
+            Cursando actualmente la carrera de Ingenieria en Computación
+            
           </p>
         </div>
 
