@@ -1,9 +1,9 @@
 export default function Navbar() {
   return (
-    <nav className="sticky top-0 z-50 w-full border-b border-white/20 bg-white/70 backdrop-blur-xl shadow-sm">
+    <nav className="sticky top-0 z-50 w-full border-b border-white/20 bg-white/70 shadow-sm backdrop-blur-xl">
       <div className="mx-auto flex max-w-5xl items-center justify-between px-6 py-4">
         <h1 className="text-lg font-extrabold tracking-tight text-slate-900">
-          Tomas Cabrera
+          Tomás Cabrera Bellomo
         </h1>
 
         <div className="flex gap-6 text-sm font-medium text-slate-700">
@@ -15,6 +15,12 @@ export default function Navbar() {
           </a>
           <a href="#skills" className="transition hover:text-blue-600">
             Habilidades
+          </a>
+          <a href="#projects" className="transition hover:text-blue-600">
+            Proyectos
+          </a>
+          <a href="#achievements" className="transition hover:text-blue-600">
+            Logros
           </a>
           <a href="#contact" className="transition hover:text-blue-600">
             Contacto
