@@ -7,10 +7,19 @@ export default function About() {
         </h2>
 
         <p className="text-lg leading-relaxed text-slate-600">
-          Soy estudiante avanzado de Ingeniería en Computación, entusiasta
-          de la Inteligencia Artificial y del desarrollo web. Me considero
-          una persona curiosa, con muchas ganas de aprender, crear proyectos
-          modernos y seguir creciendo profesionalmente en el mundo tech.
+          Soy estudiante avanzado de Ingeniería en Computación en la
+          Universidad Nacional de Tucumán. Cuento con una formación sólida en
+          programación, redes, sistemas operativos y bases de datos, y tengo
+          especial interés en inteligencia artificial, arquitectura de datos y
+          desarrollo de software.
+        </p>
+
+        <p className="mt-4 text-lg leading-relaxed text-slate-600">
+          Me destaco por mi pensamiento analítico, mi capacidad para aprender
+          de forma continua y mi enfoque estructurado para resolver problemas
+          técnicos. Disfruto trabajar en equipo, participar en proyectos
+          académicos desafiantes y seguir construyendo un perfil técnico cada
+          vez más completo.
         </p>
       </div>
     </section>

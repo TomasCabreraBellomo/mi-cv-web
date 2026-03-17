@@ -27,8 +27,7 @@ export default function Contact() {
             href="https://github.com/tuusuario"
             className="text-blue-600 ml-2"
           >
-            github.com/TomasCabreraBellomo
-          </a>
+https://github.com/TomasCabreraBellomo          </a>
         </p>
 
         <p>
