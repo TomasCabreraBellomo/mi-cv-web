@@ -1,36 +1,38 @@
 export default function Education() {
   return (
     <section id="education" className="mx-auto max-w-5xl px-6 py-16">
-      <h2 className="mb-8 text-3xl font-bold text-slate-900">
+      <h2 className="mb-8 text-3xl font-bold text-blue-600">
         Formación
       </h2>
 
       <div className="grid gap-6 md:grid-cols-2">
-        <div className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm transition hover:-translate-y-1 hover:shadow-lg">
-          <h3 className="text-lg font-semibold text-blue-600">
-            Curso de programación
+        <div className="rounded-3xl border border-slate-200 bg-white/90 p-6 shadow-md transition hover:-translate-y-1 hover:shadow-xl">
+          <h3 className="text-lg font-semibold text-slate-900">
+            Ingeniería en Computación
           </h3>
           <p className="mt-2 text-slate-600">
-            Aprendiendo desarrollo web, JavaScript, React y Next.js.
+            Estudiante avanzado, enfocado en seguir desarrollando habilidades
+            técnicas y construir una base sólida en software y tecnología.
           </p>
         </div>
 
-        <div className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm transition hover:-translate-y-1 hover:shadow-lg">
-          <h3 className="text-lg font-semibold text-blue-600">
-            Universidad Nacional de Tucumán
+        <div className="rounded-3xl border border-slate-200 bg-white/90 p-6 shadow-md transition hover:-translate-y-1 hover:shadow-xl">
+          <h3 className="text-lg font-semibold text-slate-900">
+            Desarrollo Web
           </h3>
           <p className="mt-2 text-slate-600">
-            Cursando actualmente la carrera de Ingenieria en Computación
-            
+            Aprendiendo y practicando HTML, CSS, JavaScript, React, Next.js
+            y buenas prácticas de desarrollo frontend.
           </p>
         </div>
 
-        <div className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm transition hover:-translate-y-1 hover:shadow-lg">
-          <h3 className="text-lg font-semibold text-blue-600">
-            Cursos online
+        <div className="rounded-3xl border border-slate-200 bg-white/90 p-6 shadow-md transition hover:-translate-y-1 hover:shadow-xl">
+          <h3 className="text-lg font-semibold text-slate-900">
+            Aprendizaje continuo
           </h3>
           <p className="mt-2 text-slate-600">
-            Cursos que hiciste o estás haciendo para seguir mejorando.
+            Formación constante en programación, herramientas modernas y
+            conceptos vinculados a inteligencia artificial y software.
           </p>
         </div>
       </div>
